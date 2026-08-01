@@ -1,0 +1,18 @@
+<svg width="700" height="324" viewBox="0 0 700 324" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027" />
+      <stop offset="100%" stop-color="#2c5364" />
+    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="95" cy="95" r="55" />
+    </clipPath>
+  </defs>
+  <rect width="700" height="324" rx="16" fill="url(#bg)" />
+  <image href="https://github.com/ZakariaShahruri.png?size=200" x="40" y="40" width="110" height="110" clip-path="url(#avatarClip)" />
+  <circle cx="95" cy="95" r="55" fill="none" stroke="#39ff9c" stroke-width="2" opacity="0.6" />
+  <line x1="190" y1="55" x2="660" y2="55" stroke="#8b98a5" stroke-width="1" opacity="0.4" />
+  <text x="190" y="40" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#e6edf3" font-weight="bold">ZakariaShahruri</text>
+  <text x="190" y="78" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39ff9c" font-weight="bold">user</text><text x="300" y="78" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#e6edf3">ZakariaShahruri@github</text><text x="190" y="102" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39ff9c" font-weight="bold">os</text><text x="300" y="102" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#e6edf3">Applied CS student</text><text x="190" y="126" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39ff9c" font-weight="bold">host</text><text x="300" y="126" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#e6edf3">Zakaria Shahruri</text><text x="190" y="150" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39ff9c" font-weight="bold">uptime</text><text x="300" y="150" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#e6edf3">1 yr 1 mo</text><text x="190" y="174" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39ff9c" font-weight="bold">languages</text><text x="300" y="174" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#e6edf3">TypeScript, Java, Python, Vue, CSS</text><text x="190" y="198" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39ff9c" font-weight="bold">repos</text><text x="300" y="198" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#e6edf3">12</text><text x="190" y="222" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39ff9c" font-weight="bold">followers</text><text x="300" y="222" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#e6edf3">2</text><text x="190" y="246" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39ff9c" font-weight="bold">location</text><text x="300" y="246" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#e6edf3">Leuven, Belgium</text>
+  <rect x="190" y="284" width="20" height="20" rx="4" fill="#0f2027" /><rect x="216" y="284" width="20" height="20" rx="4" fill="#c0392b" /><rect x="242" y="284" width="20" height="20" rx="4" fill="#39ff9c" /><rect x="268" y="284" width="20" height="20" rx="4" fill="#f1c40f" /><rect x="294" y="284" width="20" height="20" rx="4" fill="#2f81f7" /><rect x="320" y="284" width="20" height="20" rx="4" fill="#9b59b6" /><rect x="346" y="284" width="20" height="20" rx="4" fill="#1abc9c" /><rect x="372" y="284" width="20" height="20" rx="4" fill="#e6edf3" />
+</svg>
