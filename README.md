@@ -1,61 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Zakaria%20Shahruri&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Applied%20Computer%20Science%20Student&descAlignY=65&descSize=18&fontAlignY=35" alt="Header banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:171a20&height=150&text=ZAKARIA%20SHAHRURI&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineering%20%C2%B7%20Cloud%20%C2%B7%20Embedded&descSize=15&descAlignY=68&descColor=9ca3af" alt="Zakaria Shahruri" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZakariaShahruri/ZakariaShahruri/main/neofetch.svg" alt="Neofetch-style GitHub card" width="700">
+  <a href="https://zakariashahruri.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/zakaria-shahruri/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:zakaria@zakariashahruri.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://www.fiverr.com/users/zakaria_vega"><img src="https://img.shields.io/badge/Fiverr-000000?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </p>
 
-### 👋 About Me
+```
+role       Applied Computer Science student · Freelance full-stack developer
+location   Leuven, Belgium
+focus      Full-stack systems · Azure cloud & data pipelines · Embedded
+status     Open to internships and freelance work
+```
 
-- 🎓 Applied Computer Science student based in Leuven, Belgium
-- 💻 Building full-stack, cloud, and embedded-systems projects
-- ☁️ Into Azure cloud architecture and data pipelines
-- 🤝 Open to internships, collaborations, and freelance work
-- 📫 Reach me at the links below
+### Stack
 
 <p align="center">
-  <a href="mailto:zakaria.vegaaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/zakaria-shahruri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://zakariashahruri.com/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.fiverr.com/users/zakaria_vega"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,react,nextjs,tailwind,spring,postgres,mongodb,redis,azure,docker,linux,raspberrypi,arduino&perline=15&theme=dark" alt="Tech stack">
 </p>
 
----
+<p align="center"><sub>SQL · NumPy · Pandas · Matplotlib · Azure Cosmos DB · Functions · Service Bus</sub></p>
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,react,nextjs,spring,mongodb,mysql,postgres,redis,azure,docker,git,github,linux,raspberrypi,arduino,bash&perline=8" alt="Tech stack icons">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
-</p>
-
-<p align="center"><sub>Azure above also covers Cosmos DB, Functions, Redis Cache, and Service Bus.</sub></p>
-
----
-
-### 📈 Activity
+### Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ZakariaShahruri&theme=tokyonight&hide_border=true&background=transparent" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ZakariaShahruri&theme=default&hide_border=true&background=transparent" />
-    <img src="https://streak-stats.demolab.com/?user=ZakariaShahruri&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub streak stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ZakariaShahruri&hide_border=true&background=00000000&ring=E31937&fire=E31937&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=6B7280&stroke=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ZakariaShahruri&hide_border=true&background=00000000&ring=E31937&fire=E31937&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=57606A&dates=8C959F&stroke=D0D7DE" />
+    <img src="https://streak-stats.demolab.com/?user=ZakariaShahruri&hide_border=true&background=00000000&ring=E31937&fire=E31937&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=6B7280&stroke=30363D" alt="GitHub streak stats">
   </picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakariaShahruri/ZakariaShahruri/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakariaShahruri/ZakariaShahruri/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ZakariaShahruri/ZakariaShahruri/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" alt="Footer banner" width="100%">
 </p>
